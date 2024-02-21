@@ -28,3 +28,4 @@ class Program
         Console.WriteLine(outdoorEvent.GetShortDescription());
     }
 }
+
